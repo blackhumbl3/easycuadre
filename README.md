@@ -1,2 +1,0 @@
-# easycuadre
-easy cuadre
